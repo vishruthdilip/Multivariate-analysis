@@ -1,0 +1,10 @@
+1. Matrix scatter plot for 2 variables.
+2. Profile plot
+3. Summary statistics for multiple vairbales (mean, and std)
+4. Variance between groups and within groups
+5. Co-variance between groups and within groups
+6. Correlations between variables
+7. Standardising variables (variance = 1)
+8. Principal component analysis (scree plot)
+9. Linear discriminant analysis 
+10. 
